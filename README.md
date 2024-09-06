@@ -1,4 +1,4 @@
-# Image Processing Application
+# GFPGAN/MTCNN Processing Application
 
 This application is designed to perform various image processing tasks such as image enhancement, transformation, and face detection. The application is structured into different directories and Python files, each serving distinct roles in the image processing pipeline. Below is a comprehensive overview of the application's functionality, directory structure, and detailed descriptions of each Python script.
 
